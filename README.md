@@ -9,4 +9,7 @@ Pivot_Report.xlxs-> Task+Data
 Pivot_Report.pdf ->Task
 <br>
 Insights.docx -> Task 
-All files show this one -""
+All files show this one -"(Sorry about that, but we can’t show files that are this big right now.)"
+<br>
+Please click on View Raw inorder to view and download the file 
+<br>
